@@ -1,9 +1,6 @@
 # University-Bazar-System
 ## This is an android application project done by:
-Sanyogita Piya
-Nirdesh Sakh
-Katia Lopez
-Rabindra Yadav
+
 ![image](https://user-images.githubusercontent.com/85206339/151673329-9dc97d41-debc-4618-a459-3d39c3e5a92d.png)
 ![image](https://user-images.githubusercontent.com/85206339/151673338-a55d11ff-b75c-41cc-b34a-bfb55bdb9025.png)
 ![image](https://user-images.githubusercontent.com/85206339/151673341-eddec291-2a2c-42e3-bf1c-9a703fdc4ac1.png)
